@@ -5,10 +5,10 @@
 
 ### Article 1
  -  Article name.
- - Your answer here
+2020 MLB rules changes signal future of baseball
 
 -  Reference or article citation.
- - Your answer here
+https://www.espn.com/mlb/story/_/id/29787331/mlb-2020-rules-changes-signal-future-game
 
 - Briefly describe the article's premise.
  - Your answer here
@@ -28,10 +28,13 @@
 
 ### Article 2
  -  Article name.
- - Your answer here
+
+Property tech companies are helping landlords spy on residents, collect their
+data, and even evict them. Critics are calling it an invasion of privacy that
+could reinforce inequality.
 
 -  Reference or article citation.
- - Your answer here
+https://www.businessinsider.com/map-landlords-spying-on-residents-with-surveillance-technology-2020-9
 
 - Briefly describe the article's premise.
  - Your answer here
