@@ -1,7 +1,7 @@
 ## Lab 1 Assignment:
 ### Researching and Reporting on Database Tools
-#### Name:
-#### Date:
+#### Name: Claire Johns
+#### Date: 09/04/2020
 
 ### Article 1
  -  Article name.
