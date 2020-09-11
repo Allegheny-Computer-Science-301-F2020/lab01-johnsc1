@@ -4,20 +4,23 @@
 #### Date: 09/04/2020
 
 ### Article 1
- -  Article name.
+ -  Article name
 2020 MLB rules changes signal future of baseball
 
 -  Reference or article citation.
 https://www.espn.com/mlb/story/_/id/29787331/mlb-2020-rules-changes-signal-future-game
 
 - Briefly describe the article's premise.
- - Your answer here
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+The most concerning element here is the use of facial recognition technology.
+If the data set used to train the AI completing the facial recognition is
+trained on a biased data set, the AI will discriminate in evaluating the
+residents it is being used on. A specific example of this occurring is tech
+having to do with buying and selling properties since that historical data
+will include how neighborhoods were redlined in the past.
 
 - What data is being manipulated in the article?
- - Your answer here
 
 - Briefly describe the analysis, as you understand it.
  - Your answer here
@@ -37,10 +40,20 @@ could reinforce inequality.
 https://www.businessinsider.com/map-landlords-spying-on-residents-with-surveillance-technology-2020-9
 
 - Briefly describe the article's premise.
- - Your answer here
+This article is about new "proptech" which is technology created for real
+estate, especially for use in the area of renting properties, and the
+issues surrounding the use of this technology. Residents are uncomfortable
+with the unknown surrounding the usage and sharing of their data after it has
+been collected, and how closely proptech is able to track their actions.
 
 - What is the ethical concern, in your opinion?
- - Your answer here
+The most concerning element here is the use of facial recognition technology.
+If the data set used to train the AI completing the facial recognition is
+trained on a biased data set, the AI will discriminate in evaluating the
+residents it is being used on. A specific example of this occurring is tech
+having to do with buying and selling properties since that historical data
+will include how neighborhoods were redlined in the past.
+
 
 - What data is being manipulated in the article?
  - Your answer here
